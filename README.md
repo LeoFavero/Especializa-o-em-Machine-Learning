@@ -13,5 +13,5 @@ Aula 02: Testes de Hipóteses e Introdução à Regressão Linear<br>
 Aula 03: Regressões Lineares Simples e Múltiplas e Análise de Post-HOC<br>
 Aula 04: Cálculo de Amostragem<br>
 <br>
-Módulo 02 (Fundamentos de Machine Learning)<br>
+Módulo 03 (Fundamentos de Machine Learning)<br>
 Aula 01: Algoritmos de Machine Learning (KFold, Cross Validation, K-Nearest Neighbors)<br>
