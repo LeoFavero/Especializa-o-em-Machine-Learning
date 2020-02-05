@@ -1,5 +1,5 @@
-# Python_Bootcamp
-Python projects 
+# Especialização em Machine Learning
+In-Class projects 
 
 Módulo 01 (Algoritmos e Programação em Python)<br>
 Aula 01: Conceitos Básicos de programação em Python e funções<br>
