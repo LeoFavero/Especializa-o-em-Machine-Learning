@@ -15,3 +15,5 @@ Aula 04: Cálculo de Amostragem<br>
 <br>
 Módulo 03 (Fundamentos de Machine Learning)<br>
 Aula 01: Algoritmos de Machine Learning (KFold, Cross Validation, K-Nearest Neighbors)<br>
+Aula 02: Metrics, Métodos de Seleção de Features e Ensemble<br>
+Aula 03: Regressões e Pré-Processamentos de dados<br>
